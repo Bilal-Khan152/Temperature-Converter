@@ -1,0 +1,28 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+body{
+   background-color: rgb(38, 38, 99);
+}
+.container {
+  border: 1px solid #212;
+  border-radius: 6px;
+  width: 60vw;
+  min-height: 50vh;
+  margin-top: 150px;
+  box-shadow: 2px 2px 2px 3px black;
+  
+ }
+.select {
+  margin: 10px;
+  margin-top: 10px;
+}
+.inputfield {
+  width: 500px;
+  
+}
+.color {
+  color: white;
+} 
+ 
